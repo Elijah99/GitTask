@@ -1,5 +1,9 @@
 1 line
+<<<<<<< HEAD
 2 line 1
+=======
+2 line 1
+>>>>>>> git_2
 3 line
 
 
